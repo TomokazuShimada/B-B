@@ -10,5 +10,3 @@
 * Ruby
 * Rails
 * Git
-
-Thank you KINTAI=B
