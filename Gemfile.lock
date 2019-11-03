@@ -39,7 +39,7 @@ GEM
       minitest (~> 5.1)
       tzinfo (~> 1.1)
     arel (8.0.0)
-    autoprefixer-rails (9.7.0)
+    autoprefixer-rails (9.7.1)
       execjs
     bcrypt (3.1.13)
     bindex (0.8.1)
@@ -88,9 +88,8 @@ GEM
     mini_portile2 (2.4.0)
     minitest (5.13.0)
     nio4r (2.5.2)
-    nokogiri (1.10.4)
+    nokogiri (1.10.5)
       mini_portile2 (~> 2.4.0)
-    pg (0.20.0)
     puma (3.12.1)
     rack (2.0.7)
     rack-test (1.1.0)
@@ -185,7 +184,6 @@ DEPENDENCIES
   jbuilder (~> 2.5)
   jquery-rails
   listen (>= 3.0.5, < 3.2)
-  pg (= 0.20.0)
   puma (~> 3.7)
   rails (~> 5.1.6)
   rails-i18n
